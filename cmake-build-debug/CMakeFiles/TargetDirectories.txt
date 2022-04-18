@@ -1,3 +1,0 @@
-/Users/roman/Desktop/portfolio/cpp/TransportCatalogue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/roman/Desktop/portfolio/cpp/TransportCatalogue/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/roman/Desktop/portfolio/cpp/TransportCatalogue/cmake-build-debug/CMakeFiles/transport_catalogue.dir
