@@ -1,0 +1,61 @@
+syntax = "proto3";
+
+import "graph.proto";
+
+package transport_catalogue_proto;
+
+message RoutingSettings {
+  int32 bus_wait_time = 1;
+  double bus_velocity = 2;
+}
+
+message StopVertexIds {
+  string name = 1;
+  uint32 in = 2;
+  uint32 out = 3;
+}
+
+message VertexInfo {
+  string stop_name = 1;
+}
+
+message BusEdgeInfo {
+  string bus_name = 1;
+  uint32 start_stop_idx = 2;
+  uint32 finish_stop_idx = 3;
+}
+
+message WaitEdgeInfo {
+}
+
+message EdgeInfo {
+  oneof data {
+    BusEdgeInfo bus_data = 1;
+    WaitEdgeInfo wait_data = 2;
+  }
+}
+
+message RouteInternalData {
+  bool exists = 1;
+  double weight = 2;
+  bool has_prev_edge = 3;
+  uint32 prev_edge = 4;
+}
+
+message RoutesInternalDataByTarget {
+  repeated RouteInternalData targets_data = 1;
+}
+
+message Router {
+  repeated RoutesInternalDataByTarget sources_data = 1;
+}
+
+message TransportRouter {
+  RoutingSettings routing_settings = 1;
+  DirectedWeightedGraph graph = 2;
+  Router router = 3;
+
+  repeated StopVertexIds stops_vertex_ids = 4;
+  repeated VertexInfo vertices_info = 5;
+  repeated EdgeInfo edges_info = 6;
+}

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="transport_catalogue"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="transport_catalogue">
+				<Option output="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/transport_catalogue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/include"/>
+					<Add directory="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 transport_catalogue"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="transport_catalogue/fast">
+				<Option output="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/transport_catalogue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/include"/>
+					<Add directory="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 transport_catalogue/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth\ Sprint/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/graph.pb.cc">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/graph.pb.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/graph.pb.h.rule">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/map_renderer.pb.cc">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/map_renderer.pb.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/map_renderer.pb.h.rule">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/svg.pb.cc">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/svg.pb.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/svg.pb.h.rule">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/transport_catalogue.pb.cc">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/transport_catalogue.pb.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/transport_catalogue.pb.h.rule">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/transport_router.pb.cc">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/transport_router.pb.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/cmake-build-debug/transport_router.pb.h.rule">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/domain.cpp">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/domain.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/geo.cpp">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/geo.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/json.cpp">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/json.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/json_builder.cpp">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/json_builder.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/json_reader.cpp">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/json_reader.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/main.cpp">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/map_renderer.cpp">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/map_renderer.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/request_handler.cpp">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/request_handler.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/serialization.cpp">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/serialization.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/svg.cpp">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/svg.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/transport_catalogue.cpp">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/transport_catalogue.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/transport_router.cpp">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/transport_router.h">
+			<Option target="transport_catalogue"/>
+		</Unit>
+		<Unit filename="/Users/roman/Desktop/cpp_git/FirstApp/Fourteenth Sprint/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
